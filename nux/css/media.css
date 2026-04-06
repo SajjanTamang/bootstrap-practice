@@ -1,0 +1,28 @@
+@media only screen and (min-width:200px) and (max-width:575px){
+    .btn-outer{
+        position: fixed;
+        bottom: 0px;
+        width: 100%;
+        background-color: white;
+        padding: 5px 0px;
+        left: 0px;
+        justify-content: center !important;
+    }
+    .bannerContent h1{
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 35px;
+    }
+    .bannerContent p,.bannerContent ul li {
+        font-size: 16px;
+    }
+    .bannerForm{
+    padding: 20px;
+    }
+}
+@media (min-width: 768px) {
+    .container, .container-md, .container-sm {
+        max-width: 1170px;
+    }
+}

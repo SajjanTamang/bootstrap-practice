@@ -1,0 +1,51 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+
+.bannerContent h1{
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.bannerContent p{
+    font-size: 22px;
+}
+
+.bannerContent h1 span{
+    color: #2699FB;
+}
+
+.bannerContent ul{
+    list-style: none;
+}
+
+.bannerContent ul li{
+    font-size: 22px;
+}
+
+.bannerContent ul li i{
+    color: #2699FB;
+}
+
+.bannerContentBtn{
+    width: 50%;
+}
+
+.bannerForm{
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.bannerForm button{
+    padding: 10px 0px;
+    width: 100%;
+    background-color: #2699FB;
+    border: none;
+    color: white;
+}
+
+.counterSection h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: #2699FB;
+}
